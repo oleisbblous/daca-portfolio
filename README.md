@@ -1,3 +1,4 @@
+<img width="1242" height="892" alt="gt_01_roll_d_näide" src="https://github.com/user-attachments/assets/68516eda-d3e6-4062-add1-0aca63abe917" />
 # daca-portfolio
 Minu DACA (Data Analyst Career Accelerator) õppeprojektid ja portfoolio.
 UrbanStyle
