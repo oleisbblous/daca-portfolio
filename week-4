@@ -13,7 +13,7 @@ siiski väga hea, mis näitab stabiilset nõudlust. Kategooriate keskmine müüd
 kallimate toodete laoseisu, et vältida populaarsete toodete otsalõppemist.
 
 SQL päringud / failid
-https://supabase.com/dashboard/project/xwmwqxqorsiauliaynkk/sql/de596388-f3c9-4556-898d-828530cab064
+https://supabase.com/dashboard/project/jrkmbzgrdxffhdmbtvey/sql/7988daa9-8e36-48fc-8487-457ed7ee6b7c
 
 SELECT p.category, COUNT(DISTINCT p.product_id) AS tooteid, 
 ROUND(AVG(p.retail_price), 
