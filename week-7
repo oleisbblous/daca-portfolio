@@ -3,3 +3,4 @@ ROLL B: Data Cleaning (Andmete puhastamine)
 
 ÜLESANNE: Puhasta Roll A poolt laetud DataFrame: eemalda duplikaadid, käsitle NULL väärtusi, parsi kuupäevad ja eemalda outlier'id. Koosta puhastusraport.
 
+Raport koostatud, failid lisatud.
