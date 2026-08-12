@@ -1,5 +1,4 @@
 # UrbanStyle
-(grupitööd näha täielikult grupitöö portfolios)
 
 Nädal 0:
 week-0/individual/olga
