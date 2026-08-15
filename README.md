@@ -28,8 +28,6 @@ Week 9–10 – Programmi järgmised etapid
 
 Programmi hilisemates etappides liigub fookus järjest rohkem praktilise töö, koostöö, tulemuste esitlemise ja professionaalseks tööeluks valmistumise suunas.
 
-Ka need etapid on portfoolios dokumenteeritud vastavalt sellele, millised individuaalsed ülesanded ja väljundid programmi jooksul valmivad.
-
 Töövahendid
 
 Õppeprogrammi jooksul olen kokku puutunud mitmete andmeanalüüsi ja koostöövahenditega, sealhulgas:
