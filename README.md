@@ -2,63 +2,27 @@ DACA – Data Analyst Portfolio
 
 Tere tulemast minu DACA (Data Analyst Career Accelerator) portfooliosse.
 
-See portfoolio koondab minu õppeprogrammi jooksul tehtud praktilised tööd, individuaalsed ülesanded, analüüsid, projektide väljundid ja õppeprotsessi käigus omandatud oskused. Portfoolio eesmärk on anda terviklik ülevaade minu arengust andmeanalüütikuna – alates töövahendite ja tööprotsesside tundmaõppimisest kuni andmete töötlemise, analüüsimise, visualiseerimise ja tulemuste esitamiseni.
+See portfoolio koondab õppeprogrammi jooksul tehtud praktilised tööd, individuaalsed ülesanded, analüüsid, projektide väljundid ja omandatud oskused. Eesmärk on anda terviklik ülevaade arengust andmeanalüütikuna – alates töövahendite seadistamisest kuni andmete töötlemise, analüüsi, visualiseerimise ja tulemuste esitamiseni.
 
 Portfoolio sisu
 
 Week 0 – Onboarding
+Programmi alguses keskendusin töökeskkonna ja vajalike töövahendite seadistamisele ning tööprotsesside mõistmisele. Individuaalse tööna seadistasin meeskonna ühise NotebookLM-i, lisasin CORE RAG failid ja genereerisin Audio Overview.
 
-Programmi alguses keskendusin töökeskkonna ja vajalike töövahendite seadistamisele ning tööprotsesside mõistmisele.
+Week 1–6 – Andmeanalüüsi alused ja praktilised ülesanded
+Nendel nädalatel olid fookuses andmetega töötamine, SQL, andmebaasid, andmete puhastamine, visualiseerimine ja analüütilise mõtlemise arendamine. Iga töö juures on dokumenteeritud ülesanne, lahendus ja tulemus.
 
-Individuaalse töö näitena tegelesin NotebookLM-i seadistamisega: lõin meeskonna ühise NotebookLM notebook'i, lisasin vajalikud CORE RAG failid ning genereerisin Audio Overview.
+Week 7–8 – Python ja andmeanalüüs
+Pythoniga andmete töötlemine, analüüsimine ja tulemuste visualiseerimine. Portfoolios on säilitatud olulisemad väljundfailid ja visualiseerimisega seotud tulemused.
 
-Week 1–7 – Andmeanalüüsi alused ja praktilised ülesanded
-
-Nende nädalate jooksul kogunes portfooliosse järjest rohkem praktilisi töid. Fookuses olid andmetega töötamine, SQL, andmebaasid, andmete puhastamine ja ettevalmistamine ning analüütilise mõtlemise arendamine.
-
-Iga töö juures on võimalusel dokumenteeritud nii ülesanne, minu lahendus kui ka selle tulemus.
-
-Week 8 – Python ja andmeanalüüs
-
-Week 8 keskendus Pythoniga andmete töötlemisele, analüüsimisele ja tulemuste visualiseerimisele.
-
-Töö käigus valmisid analüüsid ja väljundid, mida saab kasutada tulemuste tõlgendamiseks ning esitamiseks. Portfoolios on lisaks töö kirjeldusele säilitatud ka olulisemad väljundfailid ja visualiseerimisega seotud tulemused.
-
-Week 9–10 — Portfoolio viimistlus ja lõpuesitlus
-
-CV, LinkedIni ja portfoolio viimistlemine ning lõpuesitlus. Uusi andmeanalüüsi koodifaile sel perioodil ei lisandu.
+Week 9–10 – Portfoolio viimistlus ja lõpuesitlus
+CV, LinkedIni ja portfoolio viimistlemine ning lõpuesitlus. Uusi koodifaile sel perioodil ei lisandu.
 
 Töövahendid
+Python, SQL, Jupyter Notebook, Supabase, Git ja GitHub, NotebookLM, Google Workspace / Meet, visualiseerimise tööriistad ning AI tööriistad õppimise ja ideede toetamiseks.
 
-Õppeprogrammi jooksul olen kokku puutunud mitmete andmeanalüüsi ja koostöövahenditega, sealhulgas:
-
-Python – andmete töötlemiseks ja analüüsimiseks
-SQL – andmete pärimiseks ja analüüsimiseks
-Jupyter Notebook – analüüside ja töövoogude dokumenteerimiseks
-Supabase – andmebaasidega töötamiseks
-Git ja GitHub – tööde versioonihalduseks, dokumenteerimiseks ja portfoolio koostamiseks
-NotebookLM – info töötlemiseks ja teadmiste struktureerimiseks
-Google Workspace / Google Meet – koostööks, suhtluseks ja tööde esitlemiseks
-Visualiseerimise tööriistad – analüüsi tulemuste arusaadavaks esitamiseks
 Kuidas portfooliot lugeda
-Tehisintellekti tööriistad – õppimise, ideede leidmise, probleemide lahendamise ja tööprotsessi toetamiseks
-
-Portfoolio on üles ehitatud nädalate kaupa:
-
-daca-portfolio/
-│
-├── week-0/
-├── week-1/
-├── week-2/
-├── week-3/
-├── week-4/
-├── week-5/
-├── week-6/
-├── week-7/
-├── week-8/
-
-Iga nädala sees paikneb minu individuaalne töö vastavas individual kaustas. Seal olev README annab konkreetse ülesande kohta täpsema ülevaate ning vajadusel on lisatud tööfailid, ekraanipildid, analüüsid ja väljundid.
+Portfoolio on üles ehitatud nädalate kaupa: week-0 kuni week-8. Igas nädalas on individual kaust oma tööde, README kirjelduse, tööfailide ja ekraanipiltidega.
 
 Autor: Olga L.
 DACA – Data Analyst Career Accelerator · 2026
-
