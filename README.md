@@ -24,9 +24,9 @@ Week 8 keskendus Pythoniga andmete töötlemisele, analüüsimisele ja tulemuste
 
 Töö käigus valmisid analüüsid ja väljundid, mida saab kasutada tulemuste tõlgendamiseks ning esitamiseks. Portfoolios on lisaks töö kirjeldusele säilitatud ka olulisemad väljundfailid ja visualiseerimisega seotud tulemused.
 
-Week 9–10 – Programmi järgmised etapid
+Week 9–10 — Portfoolio viimistlus ja lõpuesitlus
 
-Programmi hilisemates etappides liigub fookus järjest rohkem praktilise töö, koostöö, tulemuste esitlemise ja professionaalseks tööeluks valmistumise suunas.
+CV, LinkedIni ja portfoolio viimistlemine ning lõpuesitlus. Uusi andmeanalüüsi koodifaile sel perioodil ei lisandu.
 
 Töövahendid
 
