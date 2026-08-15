@@ -56,8 +56,6 @@ daca-portfolio/
 ├── week-6/
 ├── week-7/
 ├── week-8/
-├── week-9/
-└── week-10/
 
 Iga nädala sees paikneb minu individuaalne töö vastavas individual kaustas. Seal olev README annab konkreetse ülesande kohta täpsema ülevaate ning vajadusel on lisatud tööfailid, ekraanipildid, analüüsid ja väljundid.
 
